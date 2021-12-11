@@ -1,9 +1,15 @@
-.container {
+.contenedorcomo {
   width: 100%;
-  margin: 0 auto;
-  padding-left: $gap/2;
-  padding-right: $gap/2;
+  .fondo {
+  }
 }
+
+// .container {
+//   width: 100%;
+//   margin: 0 auto;
+//   padding-left: $gap/2;
+//   padding-right: $gap/2;
+// }
 
 .gs\:grid {
   display: flex;
